@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Software engineering at ALX<br><br>👯 I’m looking to collaborate on web applications<br><br>🤝 I’m looking for help with develop algorithms<br><br>💬 Ask me about Back-End, Front-End<br><br>📫 How to reach me https://www.linkedin.com/in/abdelmoniem-arabi-3773651ab/<br><br>📄 Know about my experiences https://drive.google.com/drive/u/2/my-drive<br><br>
+🌱 I’m currently learning Software engineering at ALX<br><br>👯 I’m looking to collaborate on web applications<br><br>🤝 I’m looking for help with develop algorithms<br><br>💬 Ask me about Back-End, Front-End<br><br>📫 How to reach me https://www.linkedin.com/in/abdelmoniem-arabi-3773651ab/<br><br>📄 Know about my experiences [https://drive.google.com/drive/u/2/my-drive](https://drive.google.com/file/d/1GYEbopwwqbcSzw_h42Wo1IvB9xudsTZ7/view?usp=share_link)<br><br>
 
 
 ## 🌐 Socials:
